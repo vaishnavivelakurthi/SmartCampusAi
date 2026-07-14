@@ -1,0 +1,14 @@
+streamlit>=1.30.0
+python-dotenv>=1.0.0
+openai>=1.10.0
+bcrypt>=4.1.2
+plotly>=5.18.0
+pandas>=2.1.4
+numpy>=1.24.4
+Pillow>=10.2.0
+validators>=0.22.0
+email-validator>=2.1.0.post1
+streamlit-option-menu>=0.3.6
+streamlit-extras>=0.3.6
+requests>=2.31.0
+python-dateutil>=2.8.2

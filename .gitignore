@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit config (if you want to keep custom config.toml, use !.streamlit/config.toml)
+.streamlit/config.toml
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Databases (Local JSON files)
+database/*.json
