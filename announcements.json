@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ann_001",
+    "title": "Welcome to SmartCampusAI Portal!",
+    "content": "We are thrilled to launch the new AI-powered student dashboard. Experience automated attendance analytics, interactive assignment boards, custom note keeping, and chat directly with your virtual AI Assistant.",
+    "date": "2026-07-14",
+    "department": "All",
+    "year": "All",
+    "author": "Campus Administration"
+  },
+  {
+    "id": "ann_002",
+    "title": "Midterm Examination Registrations",
+    "content": "All students must submit their exam registration forms online through the official portal before July 30, 2026. Late submissions will incur a fee.",
+    "date": "2026-07-13",
+    "department": "All",
+    "year": "All",
+    "author": "Academic Registrar"
+  },
+  {
+    "id": "ann_003",
+    "title": "Computer Science Hackathon 2026",
+    "content": "Registration is open for the CS Annual Hackathon. Teams of up to 4 can submit their project proposals focusing on AI & Sustainability.",
+    "date": "2026-07-12",
+    "department": "Computer Science",
+    "year": "3rd Year",
+    "author": "Department of CS"
+  }
+]

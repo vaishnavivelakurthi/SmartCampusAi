@@ -1,0 +1,10 @@
+{
+  "sriindu@gmail.com": [
+    {
+      "id": "note_1",
+      "title": "Exam Prep Cheatsheet",
+      "content": "Database key concepts:\n- 1NF: Atomic values\n- 2NF: No partial dependency\n- 3NF: No transitive dependency\n- BCNF: For every functional dependency X -> Y, X must be a superkey.",
+      "last_modified": "2026-07-14 15:12:29"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "Computer Science": {
+    "3rd Year": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Neural Networks",
+          "classroom": "Lab A",
+          "instructor": "Dr. Alan Turing"
+        },
+        {
+          "time": "10:15 - 11:15",
+          "subject": "Database Systems",
+          "classroom": "Room 302",
+          "instructor": "Prof. Grace Hopper"
+        },
+        {
+          "time": "11:30 - 12:30",
+          "subject": "Software Engineering",
+          "classroom": "Room 105",
+          "instructor": "Dr. Barbara Liskov"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Web Development",
+          "classroom": "Lab B",
+          "instructor": "Prof. Tim Berners-Lee"
+        },
+        {
+          "time": "10:15 - 11:15",
+          "subject": "Neural Networks",
+          "classroom": "Lab A",
+          "instructor": "Dr. Alan Turing"
+        },
+        {
+          "time": "14:00 - 16:00",
+          "subject": "Cyber Security Lab",
+          "classroom": "Lab C",
+          "instructor": "Dr. Dorothy Denning"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Software Engineering",
+          "classroom": "Room 105",
+          "instructor": "Dr. Barbara Liskov"
+        },
+        {
+          "time": "10:15 - 11:15",
+          "subject": "Database Systems",
+          "classroom": "Room 302",
+          "instructor": "Prof. Grace Hopper"
+        },
+        {
+          "time": "11:30 - 12:30",
+          "subject": "Artificial Intelligence",
+          "classroom": "Lab A",
+          "instructor": "Prof. John McCarthy"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Web Development",
+          "classroom": "Lab B",
+          "instructor": "Prof. Tim Berners-Lee"
+        },
+        {
+          "time": "10:15 - 11:15",
+          "subject": "Artificial Intelligence",
+          "classroom": "Lab A",
+          "instructor": "Prof. John McCarthy"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Neural Networks",
+          "classroom": "Lab A",
+          "instructor": "Dr. Alan Turing"
+        },
+        {
+          "time": "11:30 - 13:00",
+          "subject": "Technical Seminar",
+          "classroom": "Seminar Hall",
+          "instructor": "Prof. Richard Feynman"
+        }
+      ]
+    },
+    "2nd Year": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "classroom": "Room 201",
+          "instructor": "Dr. Donald Knuth"
+        },
+        {
+          "time": "10:15 - 11:15",
+          "subject": "Discrete Mathematics",
+          "classroom": "Room 204",
+          "instructor": "Prof. Paul Erdős"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "11:30 - 12:30",
+          "subject": "Computer Architecture",
+          "classroom": "Room 205",
+          "instructor": "Dr. Gene Amdahl"
+        }
+      ]
+    }
+  },
+  "Electrical Engineering": {
+    "3rd Year": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Control Systems",
+          "classroom": "Lab D",
+          "instructor": "Dr. Rudolf Kálmán"
+        },
+        {
+          "time": "10:15 - 11:15",
+          "subject": "Power Electronics",
+          "classroom": "Room 112",
+          "instructor": "Dr. Nikola Tesla"
+        }
+      ]
+    }
+  }
+}

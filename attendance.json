@@ -1,0 +1,64 @@
+{
+  "sriindu@gmail.com": [
+    {
+      "date": "2026-07-06",
+      "subject": "Neural Networks",
+      "status": "Present"
+    },
+    {
+      "date": "2026-07-06",
+      "subject": "Database Systems",
+      "status": "Present"
+    },
+    {
+      "date": "2026-07-07",
+      "subject": "Web Development",
+      "status": "Present"
+    },
+    {
+      "date": "2026-07-07",
+      "subject": "Cyber Security Lab",
+      "status": "Present"
+    },
+    {
+      "date": "2026-07-08",
+      "subject": "Software Engineering",
+      "status": "Absent"
+    },
+    {
+      "date": "2026-07-08",
+      "subject": "Database Systems",
+      "status": "Present"
+    },
+    {
+      "date": "2026-07-09",
+      "subject": "Web Development",
+      "status": "Present"
+    },
+    {
+      "date": "2026-07-09",
+      "subject": "Artificial Intelligence",
+      "status": "Present"
+    },
+    {
+      "date": "2026-07-10",
+      "subject": "Neural Networks",
+      "status": "Present"
+    },
+    {
+      "date": "2026-07-10",
+      "subject": "Technical Seminar",
+      "status": "Absent"
+    },
+    {
+      "date": "2026-07-13",
+      "subject": "Neural Networks",
+      "status": "Present"
+    },
+    {
+      "date": "2026-07-13",
+      "subject": "Database Systems",
+      "status": "Present"
+    }
+  ]
+}

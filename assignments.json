@@ -1,0 +1,28 @@
+{
+  "sriindu@gmail.com": [
+    {
+      "id": "assign_1",
+      "title": "Machine Learning Lab 1",
+      "subject": "Neural Networks",
+      "description": "Implement backpropagation algorithm from scratch in Python using only NumPy.",
+      "due_date": "2026-07-20",
+      "status": "Pending"
+    },
+    {
+      "id": "assign_2",
+      "title": "Database Schema Design",
+      "subject": "Database Systems",
+      "description": "Create a normalized relational schema (up to BCNF) for a library system.",
+      "due_date": "2026-07-18",
+      "status": "Pending"
+    },
+    {
+      "id": "assign_3",
+      "title": "HTML5 & CSS Grid Layout",
+      "subject": "Web Development",
+      "description": "Construct a responsive grid gallery mockup with CSS hover transitions.",
+      "due_date": "2026-07-10",
+      "status": "Submitted"
+    }
+  ]
+}
